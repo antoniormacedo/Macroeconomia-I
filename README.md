@@ -11,4 +11,4 @@ Página da disciplina: [https://sites.google.com/view/fernandobarros/teaching/ma
 
 ## Bibliografia
 
-[Krueger (2017)](https://github.com/antoniormacedo/Macroeconomia-I/blob/4397d7be70c1ebbdb06cc0ce9e076650e149bd5a/Krueger%20(2017).pdf)
+[Krueger (2017)](https://github.com/antoniormacedo/Macroeconomia-I/blob/c4584ea0737830e47de5aba3439c3492a8fc4db2/Krueger%20(2017).pdf)
