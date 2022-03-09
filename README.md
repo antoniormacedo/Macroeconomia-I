@@ -7,6 +7,12 @@ Página da disciplina: [https://sites.google.com/view/fernandobarros/teaching/ma
 
 <br>
 
+Tópicos Adicionais:
+<br>
+- [Atalhos do Spyder](https://github.com/antoniormacedo/Macroeconomia-I/blob/main/SpyderKeyboardShortcutsEditor.pdf)
+
+<br>
+
 ---
 
 ## Bibliografia
