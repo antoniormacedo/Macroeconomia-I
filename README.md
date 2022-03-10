@@ -10,6 +10,9 @@ Página da disciplina: [https://sites.google.com/view/fernandobarros/teaching/ma
 Tópicos Adicionais:
 <br>
 - [Atalhos do Spyder](https://github.com/antoniormacedo/Macroeconomia-I/blob/main/SpyderKeyboardShortcutsEditor.pdf)
+- [Tutorial de instalação do Anaconda (com o Python)](https://github.com/antoniormacedo/Macroeconomia-I/blob/main/Tutorial-Instalac%CC%A7a%CC%83o-Python.pdf)
+- [Acesso ao curso: "Introdução à Ciência da Computação com Python Parte 1"](https://www.coursera.org/learn/ciencia-computacao-python-conceitos)
+- [Acesso ao curso: "Introdução à Ciência da Computação com Python Parte 2"](https://www.coursera.org/learn/ciencia-computacao-python-conceitos-2?)
 
 <br>
 
