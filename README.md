@@ -3,7 +3,7 @@ Professor: Dr. Fernando Barros Jr
 <br>
 Monitor: Antonio Ricciardi Macedo
 <br>
-Página da disciplina: [https://sites.google.com/view/fernandobarros/teaching/macroeconomics-i](https://sites.google.com/view/fernandobarros/teaching/macroeconomics-i)
+Página da disciplina: [https://sites.google.com/view/fernandobarros/teaching/macroeconomics-i-2022](https://sites.google.com/view/fernandobarros/teaching/macroeconomics-i-2022)
 
 <br>
 
