@@ -7,7 +7,7 @@ Página da disciplina: [https://sites.google.com/view/fernandobarros/teaching/ma
 
 <br>
 
-## 18/04/2022 - Monitoria I - Introdução ao Python (Parte 1)
+## 18/04/2022 - Monitoria 1: Introdução ao Python (Parte 1)
 [Código Python](https://antoniormacedo.github.io/Macroeconomia-I/Monitoria_1.py)
 
 <br>
