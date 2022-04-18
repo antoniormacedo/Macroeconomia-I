@@ -8,8 +8,7 @@ Página da disciplina: [https://sites.google.com/view/fernandobarros/teaching/ma
 <br>
 
 ## 18/04/2022 - Monitoria I - Introdução ao Python (Parte 1)
-[Código Python](https://github.com/antoniormacedo/Macroeconomia-I/blob/a9ffa7ce50c911dba528471b84d16b47a41a05b5/Monitoria_1.py)
-
+[Código Python](https://antoniormacedo.github.io/Macroeconomia-I/Monitoria_1.py)
 
 <br>
 
@@ -26,4 +25,4 @@ Tópicos Adicionais:
 
 ## Bibliografia
 
-[Krueger (2017)](https://github.com/antoniormacedo/Macroeconomia-I/blob/c4584ea0737830e47de5aba3439c3492a8fc4db2/Krueger%20(2017).pdf)
+[Krueger (2017)](https://antoniormacedo.github.io/Macroeconomia-I/Krueger%20(2017).pdf)
