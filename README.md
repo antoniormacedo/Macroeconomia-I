@@ -8,7 +8,7 @@ Página da disciplina: [https://sites.google.com/view/fernandobarros/teaching/ma
 <br>
 
 ## Lista 1
-[Resolução da lista 1](https://antoniormacedo.github.io/Macroeconomia-I/Lista_1.pdf) | [Código Python](https://antoniormacedo.github.io/Macroeconomia-I/Lista_1-Python.py)
+[Resolução da Lista 1](https://antoniormacedo.github.io/Macroeconomia-I/Lista_1.pdf) | [Código Python](https://antoniormacedo.github.io/Macroeconomia-I/Lista_1-Python.py)
 
 <br>
 
