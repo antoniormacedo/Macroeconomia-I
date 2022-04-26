@@ -7,6 +7,11 @@ Página da disciplina: [https://sites.google.com/view/fernandobarros/teaching/ma
 
 <br>
 
+## Lista 1
+[Resolução da lista 1](https://antoniormacedo.github.io/Macroeconomia-I/Lista_1.pdf) | [Código Python](https://antoniormacedo.github.io/Macroeconomia-I/Lista_1-Python.py)
+
+<br>
+
 ## 25/04/2022 - Monitoria 2: Introdução ao Python (Parte 2)
 [Código Python](https://antoniormacedo.github.io/Macroeconomia-I/Monitoria_2.py)
 
