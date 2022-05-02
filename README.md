@@ -8,7 +8,7 @@ Página da disciplina: [https://sites.google.com/view/fernandobarros/teaching/ma
 <br>
 
 ## 02/05/2022 - Monitoria 3: Programação Dinâmica via Iteração da Função Valor
-[Apresentação Monitoria 3](https://antoniormacedo.github.io/Macroeconomia-I/Apresentação_Monitoria_3.pdf) | [Código Python Monitoria 3](https://antoniormacedo.github.io/Macroeconomia-I/Monitoria_3.py)
+[Apresentação](https://antoniormacedo.github.io/Macroeconomia-I/Apresentação_Monitoria_3.pdf) | [Código Python](https://antoniormacedo.github.io/Macroeconomia-I/Monitoria_3.py)
 
 <br>
 
