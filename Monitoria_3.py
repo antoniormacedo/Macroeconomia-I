@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Monitoria 3 de Macroeconomia I (Parte 1) de 2022
-02/05/2021 - author: Antonio Ricciardi Macedo
+02/05/2022 - author: Antonio Ricciardi Macedo
 
 Baseado nos códigos da monitoria de Fabio Nishida (2021)
 """
