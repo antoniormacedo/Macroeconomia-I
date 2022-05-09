@@ -5,13 +5,13 @@ Monitor: Antonio Ricciardi Macedo
 <br>
 Página da disciplina: [https://sites.google.com/view/fernandobarros/teaching/macroeconomics-i-2022](https://sites.google.com/view/fernandobarros/teaching/macroeconomics-i-2022)
 
+<br>
+
 ## Lista 2
 [Resolução da Lista 2](https://antoniormacedo.github.io/Macroeconomia-I/Lista_2-Macroeconomia_I.pdf) | [Código Python](https://antoniormacedo.github.io/Macroeconomia-I/Lista-2-Python.py)
 
 <br>
 
-
-<br>
 
 ## 02/05/2022 - Monitoria 3: Programação Dinâmica via Iteração da Função Valor
 [Apresentação](https://antoniormacedo.github.io/Macroeconomia-I/Apresentação_Monitoria_3.pdf) | [Código Python](https://antoniormacedo.github.io/Macroeconomia-I/Monitoria_3.py)
