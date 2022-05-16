@@ -47,5 +47,5 @@ Tópicos Adicionais:
 ## Bibliografia
 
 [Krueger (2017)](https://antoniormacedo.github.io/Macroeconomia-I/Krueger%20(2017).pdf)
-
+<br>
 [Stokey, Lucas e Prescott (1989)](https://antoniormacedo.github.io/Macroeconomia-I/Stokey,_Lucas_e_Prescott_(1989).pdf)
