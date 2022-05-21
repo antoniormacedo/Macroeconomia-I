@@ -7,6 +7,11 @@ Página da disciplina: [https://sites.google.com/view/fernandobarros/teaching/ma
 
 <br>
 
+## Lista 3
+[Resolução da Lista 3](https://antoniormacedo.github.io/Macroeconomia-I/Lista_3.pdf) 
+
+<br>
+
 ## Lista 2
 [Resolução da Lista 2](https://antoniormacedo.github.io/Macroeconomia-I/Lista_2-Macroeconomia_I.pdf) | [Código Python](https://antoniormacedo.github.io/Macroeconomia-I/Lista-2-Python.py)
 
