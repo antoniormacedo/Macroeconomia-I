@@ -7,6 +7,11 @@ Página da disciplina: [https://sites.google.com/view/fernandobarros/teaching/ma
 
 <br>
 
+## Lista 4
+[Resolução da Lista 4](https://antoniormacedo.github.io/Macroeconomia-I/Lista_4.pdf) | [Código Python](https://antoniormacedo.github.io/Macroeconomia-I/Lista-4_python.py)
+
+<br>
+
 
 ## 23/05/2022 - Monitoria 6: Modelo de Crescimento Neoclássico com Incerteza e Escolha de Trabalho
 [Apresentação](https://antoniormacedo.github.io/Macroeconomia-I/Apresentação_Monitoria_6.pdf) | [Código Python Modelo com Incerteza](https://antoniormacedo.github.io/Macroeconomia-I/Monitoria-6_incerteza.py) | [Código Python Modelo com Trabalho](https://antoniormacedo.github.io/Macroeconomia-I/Monitoria-6_trabalho.py)
